@@ -15,5 +15,9 @@ This project explores a kernel-mode defense mechanism against Ransomware. By uti
 *   **Process Quarantine & Blocking:** Immediately suspends and isolates processes exhibiting ransomware-like encryption behavior.
 *   **Automated Data Recovery:** Mechanisms to restore original files from secure kernel-level buffers before malicious encryption completes.
 
+## 📺 Demonstration
+*   **[Video 1: Detection & Quarantine]**(https://youtu.be/Eo_aaJ_50PQhttps://youtu.be/Eo_aaJ_50PQ)
+*   **[Video 2: Data Recovery Process]**(https://youtu.be/FiPTK5mev38)
+
 ## 📖 Detailed Documentation
 For an in-depth analysis of the kernel hooking methodologies and architecture, please review the full project report.
